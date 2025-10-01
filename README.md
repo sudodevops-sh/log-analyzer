@@ -193,7 +193,4 @@ Analysis options (optional):
 - Key files:
   - `query_logs.py` – CLI for fetching (and optionally analyzing) logs.
   - `analyze_logs.py` – Logic for chunked summarization and final report generation.
-
----
-If you need additional flags or a discovery mode to find failed tasks automatically, open an issue or share the patterns and we’ll extend the tooling.
-
+ 
